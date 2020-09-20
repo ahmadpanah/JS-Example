@@ -1,2 +1,2 @@
 # JS-Example
-For React Class - Shariaty Technical Collage - For test
+React Course in Dr. Shariati Vocational and Technical Girls College
